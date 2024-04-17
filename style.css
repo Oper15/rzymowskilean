@@ -1,7 +1,7 @@
 body{
     background-image: url(tło.jpg);
     background-size: 100%;
-    font-family:sans-serif;
+    font-family:arial;
     color: white;
 }
 .tytuł{
@@ -12,11 +12,10 @@ P {
     
     color: white;
     font-size: large;
-    text-align: justify;
+    text-align: center;
     text-indent: 20px;
     overflow: auto;
-    margin-left: 500px;
-    margin-right: 500px;
+
 }
 .obraz{
     position:relative;
