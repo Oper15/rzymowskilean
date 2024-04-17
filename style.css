@@ -1,0 +1,30 @@
+body{
+    background-image: url(tło.jpg);
+    background-size: 100%;
+    font-family:sans-serif;
+    color: white;
+}
+.tytuł{
+    background-image: url(tło.jpg);
+    text-align: center;
+}
+P {
+    
+    color: white;
+    font-size: large;
+    text-align: justify;
+    text-indent: 20px;
+    overflow: auto;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.obraz{
+    position:relative;
+    border: 4px solid;
+    border-color: aliceblue;
+    border-radius: 20%;
+    margin:0 auto;
+    display:block;
+    width: 825px;
+    height: 450px;
+}
